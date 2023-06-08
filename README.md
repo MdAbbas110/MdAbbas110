@@ -1,11 +1,10 @@
 <h1 align="left">Hi there 👋</h1>
-<h3 align="center">Coding Enthusiast, Exposure in Front End Development</h3>
+<h3 align="center">Coding Enthusiast, Exposure in Full Stack Web Development</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdabbas110&label=Profile%20views&color=0e75b6&style=flat" alt="mdabbas110" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web development**
+- 🌱 I’m currently learning **Full Stack Web development from Pesto tech**
 
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/mdabbas110/overview](https://app.netlify.com/teams/mdabbas110/overview)
+- 👨‍💻 All of my projects are deployed at [https://app.netlify.com/teams/mdabbas110/overview](https://app.netlify.com/teams/mdabbas110/overview)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abbas110](https://hashnode.com/@Abbas110)
 
