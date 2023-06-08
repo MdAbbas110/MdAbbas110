@@ -2,9 +2,9 @@
 <h3 align="center">Coding Enthusiast, Exposure in Full Stack Web Development</h3>
 
 
-- 🌱 I’m currently learning **Full Stack Web development from Pesto tech**
+- 🌱 **Pesto tech** is teaching me **Full Stack development*
 
-- 👨‍💻 All of my projects are deployed at [https://app.netlify.com/teams/mdabbas110/overview](https://app.netlify.com/teams/mdabbas110/overview)
+- 👨‍💻 All of projects are deployed at [https://app.netlify.com/teams/mdabbas110/overview](https://app.netlify.com/teams/mdabbas110/overview)
 
 - 📝 I regularly write articles on [https://hashnode.com/@Abbas110](https://hashnode.com/@Abbas110)
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/syed mohammad abbas" target="blank">Linkedin</a>
+<a href="https://linkedin.com/in/syed mohammad abbas" target="blank">Linkedin & </a>
 <a href="https://instagram.com/abbas_abidi__" target="blank">Instagram</a>
 </p>
 
