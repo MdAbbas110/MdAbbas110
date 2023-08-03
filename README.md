@@ -17,4 +17,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabbas110&show_icons=true&locale=en&layout=compact" alt="mdabbas110" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdabbas110&show_icons=true&locale=en" alt="mdabbas110" /></p>
+
