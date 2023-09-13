@@ -14,7 +14,4 @@
 
 <h3 align="left">Connect with me: <a href="https://linkedin.com/in/syed mohammad abbas" target="blank">Linkedin & </a> <a href="https://instagram.com/abbas_abidi__" target="blank">Instagram</a> </h3>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdabbas110&show_icons=true&locale=en&layout=compact" alt="mdabbas110" /></p>
-
-
+[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAbbas110&theme=tokyonight)
