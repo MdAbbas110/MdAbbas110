@@ -1,17 +1,6 @@
-<h1 align="left">Hi there 👋</h1>
-<h3 align="center">Coding Enthusiast, Exposure in Full Stack Web Development</h3>
-
-
-- 🌱 **Pesto tech** is teaching me **Full Stack development**
-
-- 👨‍💻 All of projects are deployed at [https://app.netlify.com/teams/mdabbas110/overview](https://app.netlify.com/teams/mdabbas110/overview)
-
-- 📝 I regularly write articles on [https://hashnode.com/@Abbas110](https://hashnode.com/@Abbas110)
-
-- 💬Ask me about **HTML, CSS, JS, React, NodeJS,**
-
-- 📫 How to reach me **meerabbas110@gmail.com**
-
-<h3 align="left">Connect with me: <a href="https://linkedin.com/in/syed mohammad abbas" target="blank">Linkedin & </a> <a href="https://instagram.com/abbas_abidi__" target="blank">Instagram</a> </h3>
-
-[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MdAbbas110&theme=tokyonight)
+- 👋 Hi, I’m Abbas, a Frontend Heavy Full stack developer. 
+- 👀 I’m passionate about building efficient and scalable applications which solve real world problems.
+- 
+- 🌱 I’m currently learning NextJS and Backend.
+- 💞️ I’m looking for a full time role as a Full stack engineer/ Frontend engineer. 
+- 📫 You can always reach out to me on my email : meerabbas110@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-abbas110/)
